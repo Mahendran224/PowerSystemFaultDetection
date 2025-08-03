@@ -35,10 +35,6 @@ Accurate and real-time fault detection in power systems is crucial for maintaini
 - Add time-series RNN/LSTM for real-time detection
 - Expand dataset with SCADA/real-world signals
 - Create dashboard via Node-RED or Streamlit
-
-## 📄 License
-MIT License
-
 ---
 
-> Created as part of **Smart India Hackathon 2025 – Problem Statement 41: Power System Fault Detection and Classification using SCADA data**
+> Created as part of **IBM Skillsbuild – Problem Statement 41: Power System Fault Detection**
